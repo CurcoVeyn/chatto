@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "HelloCordova",
+  "short_name": "HelloCordova",
+  "version": "io.cordova.hellocordova",
+  "description": "Chat-to App, a chat for dragons.",
+  "author": "Developed by Mr.Eagle",
+  "icons": [],
+  "start_url": "index.html"
+}
